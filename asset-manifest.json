@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsterroldexyarn/static/css/main.23078317.chunk.css",
+    "main.js": "/monsterroldexyarn/static/js/main.87535d74.chunk.js",
+    "main.js.map": "/monsterroldexyarn/static/js/main.87535d74.chunk.js.map",
+    "runtime-main.js": "/monsterroldexyarn/static/js/runtime-main.a3fa54cd.js",
+    "runtime-main.js.map": "/monsterroldexyarn/static/js/runtime-main.a3fa54cd.js.map",
+    "static/js/2.2d5450c2.chunk.js": "/monsterroldexyarn/static/js/2.2d5450c2.chunk.js",
+    "static/js/2.2d5450c2.chunk.js.map": "/monsterroldexyarn/static/js/2.2d5450c2.chunk.js.map",
+    "index.html": "/monsterroldexyarn/index.html",
+    "precache-manifest.888497ba15f574d4f996061e8d0fae71.js": "/monsterroldexyarn/precache-manifest.888497ba15f574d4f996061e8d0fae71.js",
+    "service-worker.js": "/monsterroldexyarn/service-worker.js",
+    "static/css/main.23078317.chunk.css.map": "/monsterroldexyarn/static/css/main.23078317.chunk.css.map",
+    "static/js/2.2d5450c2.chunk.js.LICENSE.txt": "/monsterroldexyarn/static/js/2.2d5450c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monsterroldexyarn/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3fa54cd.js",
+    "static/js/2.2d5450c2.chunk.js",
+    "static/css/main.23078317.chunk.css",
+    "static/js/main.87535d74.chunk.js"
+  ]
+}
